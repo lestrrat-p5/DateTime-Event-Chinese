@@ -1,5 +1,4 @@
 use strict;
-use blib "/Users/daisuke/git/DateTime-Util-Astro";
 use Test::More;
 use DateTime;
 

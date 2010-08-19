@@ -1,8 +1,9 @@
 Changes
 =======
 
-0.99000
+0.99999_01 19 Aug 2010
     * Migrate to using XS backend (DateTime::Astro)
+        - XS is a requirement now....
     * Migrate to github
 
 0.05 28 May 2007 (Wow, has it been that long?)

@@ -5,7 +5,7 @@ use warnings;
 use vars qw($VERSION);
 BEGIN
 {
-    $VERSION = '0.99000';
+    $VERSION = '0.99999';
 }
 use DateTime::Astro qw(MEAN_SYNODIC_MONTH new_moon_after new_moon_before moment);
 use DateTime::Event::SolarTerm qw(WINTER_SOLSTICE prev_term_at no_major_term_on);
@@ -210,8 +210,7 @@ See http://www.perl.com/perl/misc/Artistic.html
 
 L<DateTime>
 L<DateTime::Set>
-L<DateTime::Span>
-L<DateTime::Event::Lunar>
+L<DateTime::Astro>
 L<DateTime::Event::SolarTerm>
 
 =cut

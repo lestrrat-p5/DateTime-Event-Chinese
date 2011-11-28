@@ -1,6 +1,9 @@
 Changes
 =======
 
+0.99999_02 29 Nov 2011
+    * Add more tests
+
 0.99999_01 19 Aug 2010
     * Migrate to using XS backend (DateTime::Astro)
         - XS is a requirement now....

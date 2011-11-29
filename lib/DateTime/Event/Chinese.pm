@@ -5,7 +5,7 @@ use warnings;
 use vars qw($VERSION);
 BEGIN
 {
-    $VERSION = '0.99999';
+    $VERSION = '1.00';
 }
 use DateTime::Astro qw(MEAN_SYNODIC_MONTH new_moon_after new_moon_before moment);
 use DateTime::Event::SolarTerm qw(WINTER_SOLSTICE prev_term_at no_major_term_on);

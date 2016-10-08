@@ -164,7 +164,7 @@ Returns the DateTime object representing the Chinese New Year for the
 
   my $dt = chinese_new_year_for_sui($dt0);
 
-=head2 chinese_new_year_for_greogrian_year($dt)
+=head2 chinese_new_year_for_gregorian_year($dt)
 
 Returns the DateTime object representing the Chinese New Year for the
 given gregorian year.
